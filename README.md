@@ -50,3 +50,9 @@ The average connectivity between statistically significant channels as determine
 
 ## 5. Left hemisphere connectivity index (LHCx)
 LHCx is a new biomarker for diagnosis of depression proposed by this study. LHCx is the sum of connectivity between the CPz channel and channels connected with it in the low alpha band. By defining left hemisphere channels {LHC: Fp1, AF3, F1, F3, F5, F7, FT7, FC5, T7, TP7, P7} connected with CPz as region of interest, LHCx is defined as the sum of connectivity between the LHC and CPz:
+
+<div align=center>
+
+![LHCx 수식](https://github.com/Junsu0213/Depression_Biomarker/assets/128777619/8ba8f95c-263f-4e05-b63f-348ee6c18238)
+
+</div>
