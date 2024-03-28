@@ -47,3 +47,6 @@ The average connectivity between statistically significant channels as determine
 #### [PRED+CT MDD dataset](http://predict.cs.unm.edu/)
 * 116 subjects (MDD: 73, Healthy control: 43)
 * Resting state EEG data: eyes open (EO), eyes closed (EC)
+
+## 5. Left hemisphere connectivity index (LHCx)
+LHCx is a new biomarker for diagnosis of depression proposed by this study. LHCx is the sum of connectivity between the CPz channel and channels connected with it in the low alpha band. By defining left hemisphere channels {LHC: Fp1, AF3, F1, F3, F5, F7, FT7, FC5, T7, TP7, P7} connected with CPz as region of interest, LHCx is defined as the sum of connectivity between the LHC and CPz:
